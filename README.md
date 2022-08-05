@@ -5,4 +5,3 @@ Para copiar o código em HTML:
   <h1> meu primeiro arquivo html</h1>
   <html/>
     ...
-  
